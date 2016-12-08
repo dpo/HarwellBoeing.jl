@@ -1,6 +1,3 @@
-include("hrb_utils.jl")
-
-
 type HBMeta
   # Metadata attached to a Harwell-Boeing matrix.
   title :: AbstractString

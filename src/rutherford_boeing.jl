@@ -1,5 +1,3 @@
-include("hrb_utils.jl")
-
 type RBMeta
   # Metadata attached to Rutherford-Boeing data.
   title :: AbstractString
